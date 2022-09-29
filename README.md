@@ -1,9 +1,9 @@
 ### Henrique Neubert
 
-- Sou desenvolvedor front-end junior
-- Atualmente estou estudando javascript
-- E-mail:
-- ✉️ Linkdin:
+- 💻 Sou desenvolvedor front-end junior
+- 📚 Atualmente estou estudando javascript
+- 🌐 E-mail:
+- 🌐 Linkdin:
 
 Here are some ideas to get you started:
 
