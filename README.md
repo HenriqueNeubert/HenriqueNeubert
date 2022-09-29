@@ -16,6 +16,11 @@ _____________________________________________
   <img align="center" height="30" width="40" style="max-width: 100%;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" />
           
   <img align="center" height="30" width="40" style="max-width: 100%;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+  
+  <img align="center" height="30" width="40" style="max-width: 100%;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-wordmark.svg" />
+  
+    <img align="center" height="30" width="40" style="max-width: 100%;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />          
+  
 </div>
 
  
