@@ -5,7 +5,7 @@
 ##
 
 </br>
-  Eu sou desenvolvedor front-end, com experiência em css, html, bootstrap, javascript, jQuery...
+  Eu sou desenvolvedor front-end, com experiência em css, html, bootstrap, javascript, jQuery...</br>
   
   📚 Atualmente estou estudando javascript e procurando aprimorar a minha lógica de programação 📚 </br>
   
