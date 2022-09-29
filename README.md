@@ -24,7 +24,7 @@ _____________________________________________
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" style="max-width: 100%;">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="max-width: 100%;">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" style="max-width: 100%;">
-  <img align="right" alt="Rafa-gif" src="https://camo.githubusercontent.com/a1dfbfacf48437772d1a3daad29b2dc64fe0abd152daedf82b11ecb5dbc80d85/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3739353335383931393431373339373234392f3832353433303538393538313638383837322f68692e676966" data-animated-image="" data-canonical-src="https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif" style="max-width: 100%;">
+  
 </div>
 
 
