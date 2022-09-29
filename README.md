@@ -7,9 +7,7 @@ _____________________________________________
   
   🌐 E-mail: henriqueneubert.dev@gmail.com </br>
   🌐 Linkdin: linkedin.com/in/henrique-neubert </br>
-  
-  <img class="giphy-gif-img giphy-img-loaded" src="https://media1.giphy.com/media/jxJjBMvqEvMSA/200.gif?cid=ecf05e47zj3fbodylqdfaljashjoroidik5zc9rm9m32xxwd&amp;rid=200.gif&amp;ct=g" width="248" height="181" alt="nostalgia love GIF" style="background: rgb(0, 255, 153);">
-  
+    
 ##   
 
 </br>
