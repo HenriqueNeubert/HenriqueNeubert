@@ -4,7 +4,12 @@
 
 ##
 
+</br>
+  Eu sou desenvolvedor front-end, com experiência em css, html, bootstrap, javascript, jQuery...
+  
   📚 Atualmente estou estudando javascript </br>
+  
+  Este é o meu Github...
       
 ##   
 
