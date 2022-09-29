@@ -2,8 +2,8 @@ _____________________________________________
 ### Henrique Neubert
 _____________________________________________
 
-  💻 Sou desenvolvedor front-end junior
-  📚 Atualmente estou estudando javascript
+  💻 Sou desenvolvedor front-end junior</br>
+  📚 Atualmente estou estudando javascript</br>
   
   🌐 E-mail:
   🌐 Linkdin:
