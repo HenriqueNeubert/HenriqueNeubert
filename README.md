@@ -12,6 +12,8 @@ _____________________________________________
  _____________________________________________
    
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueNeubert&theme=onedark&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
+ 
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueNeubert&theme=onedark&exclude_repo=github-readme-stats,HenriqueNeubert.github.io)](https://github.com/HenriqueNeubert/github-readme-stats)
 
 
 
