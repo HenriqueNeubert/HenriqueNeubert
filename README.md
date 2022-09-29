@@ -1,5 +1,5 @@
 _____________________________________________
-### 💻 Ola, meu nome é Henrique Neubert eu sou um desenvolvedor front-end junior 💻 
+### 💻 Ola, meu nome é Henrique Neubert 💻 
 _____________________________________________
 
   📚 Atualmente estou estudando javascript </br>
