@@ -1,13 +1,9 @@
 _____________________________________________
-### Henrique Neubert
+### 💻 Ola, meu nome é Henrique Neubert eu sou um desenvolvedor front-end junior 💻 
 _____________________________________________
 
-  💻 Ola, meu nome é Henrique Neubert eu sou um desenvolvedor front-end junior </br>
   📚 Atualmente estou estudando javascript </br>
-  
-  🌐 E-mail: henriqueneubert.dev@gmail.com </br>
-  🌐 Linkdin: linkedin.com/in/henrique-neubert </br>
-    
+      
 ##   
 
 </br>
