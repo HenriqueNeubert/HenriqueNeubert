@@ -7,7 +7,7 @@
 </br>
   Eu sou desenvolvedor front-end, com experiência em css, html, bootstrap, javascript, jQuery...
   
-  📚 Atualmente estou estudando javascript </br>
+  📚 Atualmente estou estudando javascript e procurando aprimorar a minha lógica de programação 📚 </br>
   
   Este é o meu Github...
       
