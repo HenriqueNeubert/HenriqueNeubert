@@ -23,10 +23,15 @@ _____________________________________________
   <img align="center" height="30" width="40" style="max-width: 100%;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />        
          
 </div>
+
 ##   
+
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HenriqueNeubert&count_private=true&show_icons=true&theme=onedark&card_width=100&include_all_commits=true)
+ 
 ##   
+
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueNeubert&card_width=100&theme=onedark&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
+ 
 ##
 
 
