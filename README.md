@@ -8,7 +8,7 @@ _____________________________________________
   🌐 E-mail:
   🌐 Linkdin:
    
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HenriqueNeubert&count_private=true)
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HenriqueNeubert&count_private=true&show_icons=true&theme=onedark)
 
 
 
