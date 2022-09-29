@@ -1,6 +1,8 @@
-_____________________________________________
+##
+
 ### 💻 Ola, meu nome é Henrique Neubert 💻 
-_____________________________________________
+
+##
 
   📚 Atualmente estou estudando javascript </br>
       
