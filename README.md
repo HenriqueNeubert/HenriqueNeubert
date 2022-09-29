@@ -1,5 +1,7 @@
 _____________________________________________
+<div style="text-align:center;">
 ### Henrique Neubert
+</div>
 _____________________________________________
 
   💻 Sou desenvolvedor front-end junior </br>
