@@ -15,12 +15,12 @@ _____________________________________________
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HenriqueNeubert&repo=github-readme-stats" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HenriqueNeubert&repo=convoychat" />
-</a>
 
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HenriqueNeubert&repo=convoychat" />
+
+<a href="https://github.com/anuraghazra/convoychat">
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueNeubert&theme=onedark&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
- 
+ </a>
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueNeubert&theme=onedark&exclude_repo=github-readme-stats,HenriqueNeubert.github.io)](https://github.com/HenriqueNeubert/github-readme-stats)
 
 
