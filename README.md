@@ -8,6 +8,15 @@ _____________________________________________
   🌐 E-mail: henriqueneubert.dev@gmail.com </br>
   🌐 Linkdin: linkedin.com/in/henrique-neubert </br>
   
+##   
+
+</br>
+
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HenriqueNeubert&count_private=true&show_icons=true&theme=onedark&card_width=100&include_all_commits=true)
+ 
+##   
+
+
   <div dir="auto">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" style="max-width: 100%;">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" style="max-width: 100%;">
@@ -24,13 +33,7 @@ _____________________________________________
          
 </div>
 
-##   
-
-</br>
-
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HenriqueNeubert&count_private=true&show_icons=true&theme=onedark&card_width=100&include_all_commits=true)
- 
-##   
+##
 
 </br>
 
