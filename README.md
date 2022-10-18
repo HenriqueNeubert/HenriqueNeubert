@@ -8,7 +8,7 @@
   Eu sou desenvolvedor front-end, com experiência em css, html, bootstrap, javascript, jQuery...
   </br>
   
-  📚 Atualmente estou estudando javascript e procurando aprimorar a minha lógica de programação 📚 
+  📚 Atualmente estou estudando javascript, react.js e procurando aprimorar a minha lógica de programação 📚 
   </br>
   
   Este é o meu Github...
