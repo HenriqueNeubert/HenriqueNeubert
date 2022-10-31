@@ -5,7 +5,7 @@
 ##
 
 </br>
-  Eu sou desenvolvedor front-end, com experiência em css, html, scss, bootstrap, javascript, jQuery, github...
+  Eu sou desenvolvedor front-end, com experiência em css, html, scss, bootstrap, javascript, jQuery, github, também obtive contato com o uso de github como controle de versões, suporte e atendimento ao cliente e como ferramentas de edição, utilizei Photoshop, AdobeXD e Figma.
   </br>
   
   📚 Atualmente estou estudando javascript, react.js e procurando aprimorar a minha lógica de programação 📚 
