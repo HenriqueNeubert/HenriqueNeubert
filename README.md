@@ -5,7 +5,7 @@
 ##
 
 </br>
-  Eu sou desenvolvedor front-end, com experiência em css, html, bootstrap, javascript, jQuery...
+  Eu sou desenvolvedor front-end, com experiência em css, html, scss, bootstrap, javascript, jQuery, github...
   </br>
   
   📚 Atualmente estou estudando javascript, react.js e procurando aprimorar a minha lógica de programação 📚 
@@ -48,7 +48,7 @@
 ##
 
   <h3>
-    CONTATO
+    MEUS CONTATOS
   </h3>
 
 </br>
