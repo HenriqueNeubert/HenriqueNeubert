@@ -5,8 +5,10 @@
 ##
 
 </br>
-  Eu sou desenvolvedor front-end, com experiência em css, html, scss, bootstrap, javascript, jQuery, github, também obtive contato com o uso de github como controle de versões, suporte e atendimento ao cliente e como ferramentas de edição, utilizei Photoshop, AdobeXD e Figma.
-  </br>
+      Sou desenvolvedor front-end júnior, trabalhei na área durante 2, tanto de forma presencial quanto em home office, em minha experiência trabalhei com desenvolvimento e manutenção de sites para a internet.
+    Atualmente estou cursando Análise e desenvolvimento de sistemas pela universidade Unisinos, já trabalhei com html, css, scss, javascript, jQuery, bootstrap, scss entre outras tecnologias, também obtive breve contato com php, laravel, wordPress.
+    Atualmente em paralelo com os estudos da faculdade estou procurando aprender React.js e para auxiliar em meu curso, também estudo Python.
+</br>
   
   📚 Atualmente estou estudando javascript, react.js e procurando aprimorar a minha lógica de programação 📚 
   </br>
