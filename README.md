@@ -1,8 +1,8 @@
-##
+#
 
-### 💻 Ola, meu nome é Henrique Neubert 💻 
+#### 💻 Ola, meu nome é Henrique Neubert 💻 
 
-##
+#
 
 </br>
     - Sou desenvolvedor front-end júnior, trabalhei na área durante 2, tanto de forma presencial quanto em home office, em minha experiência trabalhei com desenvolvimento e manutenção de sites para a internet.
