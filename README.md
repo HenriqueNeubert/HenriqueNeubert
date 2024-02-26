@@ -10,9 +10,7 @@
         html, css, scss, javascript, jQuery, bootstrap, scss, também obtive breve contato com php, laravel,
         wordPress, entre outras tecnologias e ferramentas.<br>
         - 📚 Atualmente em paralelo com os estudos da faculdade estou procurando me aperfeiçoar em javascript<br>
-        - ⚡ Em meu tempo livre gosto de ler e praticar algum tipo de exercício.</p>
-    </br>
-  
+        - ⚡ Em meu tempo livre gosto de ler e praticar algum tipo de exercício.</p>  
 </div>
 
 ###
@@ -27,7 +25,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
   <img width="12" />
@@ -55,11 +52,17 @@
   <a href="https://www.instagram.com/_neubert/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
-</div>
+  <a href="henriqueneubert.dev@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
 
-<div align="center">
-  <h2>Este é o meu Github...</h2>
+###
 </div>
+</br>
+<div align="right">
+  <p>Este é o meu Github...</p>
+</div>
+   </br>
 
 
 
